@@ -1,19 +1,12 @@
-# Hailee portfolio webpage
+# Dinesh Pithiya portfolio webpage
 
-A portfolio web site completely made in html css and js from ground up.
+## Full-Stack Developer with 10+ years of experience building scalable web and mobile applications using React, Next.js, React Native, Node.js, PHP (Laravel/Codeginiter/Slim), Python (Django), and AWS. Skilled in both frontend and backend development, DevOps practices, and cloud infrastructure. Holds AWS Associate and DevOps Engineer certifications. Experienced in mobile development with React Native and managing databases including MySQL and DynamoDB.
 
-#### Watch it live here - [hailee.netlify.app](https://hailee.netlify.app/)
+##  Email
+-   dineshpithiya8@gmail.com
 
-<br>
+##  linkedin
+-   https://www.linkedin.com/in/dinesh-pithiya/
 
-## This is how it looks
-
-<br>
-
-### In dark mode
-
-![In dark mode](./preview/hailee-dark.png)
-
-### In light mode
-
-![In light mode](./preview/hailee-light.png)
+##  PortFolio
+-   https://dineshpithiya.github.io/
